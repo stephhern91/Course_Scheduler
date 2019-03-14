@@ -44,6 +44,6 @@ export function fetchCourses() {
                 title: 'Dissecting Rails 5',
                 description: 'Learn how to build powerful applications using this comprehensive guide to the Ruby on Rails web framework.',
             }
-          ]
+        ]
     }
 }
